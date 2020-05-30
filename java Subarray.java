@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+/* Print the number of subarrays A of  having negative sums */
 
 public class Solution {
     private static final Scanner scanner = new Scanner(System.in);
